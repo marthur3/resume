@@ -1,6 +1,6 @@
 # Michael Arthur
 
-**Data Governance & Health Data Specialist | Government & Regulated Industry Expert**
+Data Governance & Health Data Specialist | Government & Regulated Industry Expert
 
 - 📧 **Email:** [mikearthur3@gmail.com](mailto:mikearthur3@gmail.com)  
 - 🌐 **LinkedIn:** [linkedin.com/in/michael-bradford-arthur](#)  
