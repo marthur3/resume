@@ -82,9 +82,9 @@ For more details, visit the [project link](https://www.heinz.cmu.edu/media/2018/
 - **Certified Data Management Professional (CDMP)** _(Expected 2025)_
 - **Certified Information Privacy Professional/United States (CIPP/US)** _(Expected 2025)_
 - **Google Cloud Digital Leader** [See Badge](https://www.cloudskillsboost.google/public_profiles/0342516c-87b8-41a5-b86a-7b0e6b1bdfb8/badges/6880080)
-- **Microsoft Azure Fundamentals** [See Certification](https://learn.microsoft.com/en-us/users/MichaelArthur-0540/achievements/9NPPHENU)
-- **Local Government Fundamentals** – University of North Carolina
-- **Local Government Finance** – Specialized Courses in Budgeting and Financial Management
+- **Microsoft Azure AI Fundamentals: Generative AI** [See Certification](https://learn.microsoft.com/en-us/users/MichaelArthur-0540/achievements/9NPPHENU)
+- **Local Government Fundamentals** – University of North Carolina School of Government
+- **Local Government Finance** – University of North Carolina School of Government | Specialized Courses in Budgeting and Financial Management
 
 ---
 
