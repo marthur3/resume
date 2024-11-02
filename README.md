@@ -6,7 +6,6 @@ Data Governance & Health Data Specialist | Government & Regulated Industry Exper
 
 - 📧 **Email:** [mikearthur3@gmail.com](mailto:mikearthur3@gmail.com)  
 - 🌐 **LinkedIn:** [linkedin.com/in/michael-bradford-arthur](https://www.linkedin.com/in/michael-bradford-arthur)  
-- 🌐 **GitHub:** [github.com/marthur3](https://github.com/marthur3)  
 
 --- 
 
