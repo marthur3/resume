@@ -2,6 +2,8 @@
 
 Data Governance & Health Data Specialist | Government & Regulated Industry Expert
 
+---
+
 ## Contact
 
 - 📧 **Email:** [mikearthur3@gmail.com](mailto:mikearthur3@gmail.com)  
@@ -11,23 +13,23 @@ Data Governance & Health Data Specialist | Government & Regulated Industry Exper
 
 ## Summary
 
-I am a seasoned manager and consultant specializing in strategy analytics, data governance, and data management for regulated industries and government. With over 10 years in IT and data roles, I support executives in creating robust, compliant data-driven systems and lead complex analytics projects that enhance decision-making and operational efficiency. Known for my expertise in navigating ambiguity, I deliver actionable strategies and implement data initiatives that solve real-world challenges. My experience spans leading comprehensive data governance frameworks, establishing secure data warehousing, and deploying high-impact and operational dashboards to drive performance.
+I am a seasoned manager and consultant specializing in data governance, and data management for regulated industries and government. With over 10 years in IT and data roles, I create robust, compliant data-driven systems and lead complex analytics projects that enhance decision-making and operational efficiency. Known for my expertise in navigating ambiguity, I deliver actionable strategies and implement data initiatives that solve real-world challenges. My experience spans leading comprehensive data governance frameworks, establishing secure data warehousing, and deploying high-impact and operational dashboards to drive performance.
 
 ---
 
 ## Core Competencies
 
 - **Data Governance**: Established and led data governance initiatives, including subcommittee leadership and data policy development, resulting in clear, secure, and operationalized data usage standards.
-- **Strategy & Analytics**: Deep expertise in strategy analytics with a proven track record of enhancing data-driven decision-making within local government environments.
-- **IT Management & Operations**: Managed IT budgets, asset forecasting, and streamlined data processes, contributing to fiscal sustainability and operational continuity.
+- **Strategy & Analytics**: Deep expertise in  analytics with a proven track record of enhancing data-driven decision-making within regulated and government environments.
+- **IT Management & Operations**: Managed IT budgets, asset lifecycle forecasting, and streamlined inventory processes, contributing to fiscal sustainability and operational continuity.
 - **Team Leadership & Development**: Hired and onboarded staff, led professional development programs, and coached employees to strengthen capabilities in data management, GIS, and analytics.
 
 ---
 
 ## Education
 
-**M.S., Public Policy & Management** | Carnegie Mellon University - Heinz College (May 2017)  
-**B.A., Economics** | George Mason University (May 2013)  
+**M.S., Public Policy & Management** | Carnegie Mellon University - Heinz College  
+**B.A., Economics** | George Mason University
 
 --- 
 
@@ -84,8 +86,7 @@ For more details, visit the [project link](https://www.heinz.cmu.edu/media/2018/
 - **Google Cloud Digital Leader** [See Badge](https://www.cloudskillsboost.google/public_profiles/0342516c-87b8-41a5-b86a-7b0e6b1bdfb8/badges/6880080)
 - **Microsoft Azure AI Fundamentals: Generative AI** [See Certification](https://learn.microsoft.com/en-us/users/MichaelArthur-0540/achievements/9NPPHENU)
 - **Local Government Fundamentals** – University of North Carolina School of Government
-- **Local Government Finance** – University of North Carolina School of Government | Specialized Courses in Budgeting and Financial Management
-
+- **Local Government Finance** – University of North Carolina School of Government
 ---
 
 
