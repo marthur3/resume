@@ -17,6 +17,13 @@ I am a seasoned manager and consultant specializing in data governance, and data
 
 ---
 
+## Education
+
+**M.S., Public Policy & Management** | Carnegie Mellon University - [Heinz College](https://www.heinz.cmu.edu/programs/public-policy-management-master)\
+**B.A., Economics** | George Mason University 
+
+---
+
 ## Core Competencies
 
 - **Data Governance**: Established and led data governance initiatives, including subcommittee leadership and data policy development, resulting in clear, secure, and operationalized data usage standards.
@@ -24,18 +31,11 @@ I am a seasoned manager and consultant specializing in data governance, and data
 - **IT Management & Operations**: Managed IT budgets, asset lifecycle forecasting, and streamlined inventory processes, contributing to fiscal sustainability and operational continuity.
 - **Team Leadership & Development**: Hired and onboarded staff, led professional development programs, and coached employees to strengthen capabilities in data management, GIS, and analytics.
 
----
-
-## Education
-
-**M.S., Public Policy & Management** | Carnegie Mellon University - Heinz College  
-**B.A., Economics** | George Mason University
-
 --- 
 
 ## Professional Experience
 
-### Chief Data Officer  
+### Chief Data Officer  https://github.com/marthur3/resume/blob/main/README.md
 **Guilford County, NC**  
 **Dec 2021 – Present**  
 
@@ -69,13 +69,12 @@ I am a seasoned manager and consultant specializing in data governance, and data
 ### Notable Projects  
 
 **MetroLab Model Data Governance Guide**  
-- Participated as an advisor and author on MetroLab’s Model Data Governance Policy & Practice Guide, providing actionable frameworks for cities and counties to establish and improve data governance practices. This document acts as a reference point for local governments aiming to enhance data use while safeguarding privacy and ensuring compliance. For more details, visit the [article link](https://www.govtech.com/analytics/data-governance-guide-offers-models-for-local-governments).
+- Participated as an advisor on MetroLab’s Model Data Governance Policy & Practice Guide, providing actionable frameworks for cities and counties to establish and improve data governance practices. This document acts as a reference point for local governments aiming to enhance data use while safeguarding privacy and ensuring compliance. For more details, check out this [article link](https://www.govtech.com/analytics/data-governance-guide-offers-models-for-local-governments).
   
 **Capstone Project: Smart Cities and Cars** 
-- Collaborated with industry partners to design data-driven approaches for integrating autonomous vehicles into smart city infrastructures.
 - Conducted research on data-sharing frameworks and governance policies, addressing privacy, security, and interoperability challenges to support cities' preparedness for advanced vehicle technology.
 - The project’s findings contributed to ongoing efforts in urban planning and public safety, providing practical recommendations for municipal data policy in emerging technologies.  
-For more details, visit the [project link](https://www.heinz.cmu.edu/media/2018/June/smart-cities-and-cars).
+For more details, visit this [article](https://www.heinz.cmu.edu/media/2018/June/smart-cities-and-cars).
 
 --- 
 
