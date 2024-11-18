@@ -19,7 +19,7 @@ I am a seasoned manager and consultant specializing in data governance, and data
 
 ## Education
 
-**M.S., Public Policy & Management** | Carnegie Mellon University - [Heinz College](https://www.heinz.cmu.edu/programs/public-policy-management-master)\
+**M.S., Public Policy & Management** | Carnegie Mellon University - [Heinz College](https://www.heinz.cmu.edu/programs/public-policy-management-master)
 **B.A., Economics** | George Mason University 
 
 ---
@@ -35,7 +35,7 @@ I am a seasoned manager and consultant specializing in data governance, and data
 
 ## Professional Experience
 
-### Chief Data Officer  https://github.com/marthur3/resume/blob/main/README.md
+### Chief Data Officer
 **Guilford County, NC**  
 **Dec 2021 – Present**  
 
