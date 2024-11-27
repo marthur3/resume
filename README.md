@@ -86,6 +86,7 @@ For more details, visit this [article](https://www.heinz.cmu.edu/media/2018/June
 - **Microsoft Azure AI Fundamentals: Generative AI** [See Certification](https://learn.microsoft.com/en-us/users/MichaelArthur-0540/achievements/9NPPHENU)
 - **Local Government Fundamentals** – University of North Carolina School of Government
 - **Local Government Finance** – University of North Carolina School of Government
+
 ---
 
 
